@@ -1,0 +1,21 @@
+// ------------------------ SOLID --------------------------- //
+
+
+S - Single Responsibility,
+	it should only have one job or responsibility
+	this helps in reducing the complexity of a class
+
+O - Open Close,
+	
+
+L - liskov,
+	Objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program
+
+I - Interfece segregation,
+	This means that interfaces should be specific to the clients that use them.
+
+D - Dependency Inversion,
+	High-level modules should not depend on low-level modules. 
+	Both should depend on abstractions. 
+	Abstractions should not depend on details. 
+	Details should depend on abstractions.
